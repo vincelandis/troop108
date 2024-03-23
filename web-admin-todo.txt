@@ -1,25 +1,14 @@
 from home page, following individual links are available.
 
-categorize later
-
-
-
 Scoutmaster contact list
 
 meeting times and locations
 
 important phone numbers
 
-
 calendar
 
 troop 108 committee members
-
-
-troop eagle Scouts
-
-
-troop 108 most active scouts
 
 troop IPC contest winners
 
@@ -53,5 +42,3 @@ cold weather camping guide
 scouting magazine
 
 scout rank requirements
-
-order of the arrow
