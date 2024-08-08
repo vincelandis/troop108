@@ -1,0 +1,27 @@
+//define the troop history object
+//troop history object:
+{
+    "id": "1971-01-01",
+    "historyRecords": [
+        {
+            "recordId": 1, // january
+            "advancementReport": {},
+            "submittedBy": "Karl M. Winsch"
+        },
+        {
+            "recordId": 2, // february
+            "advancementReport": {},
+            "submittedBy": "Karl M. Winsch"
+        }
+    ]
+}
+
+/*
+todo: create an application which:
+
+prompts for year
+takes monthly info
+gets advancement report, camping report, explorer post report, etc
+stores in json
+remove excess whitespace
+*/
