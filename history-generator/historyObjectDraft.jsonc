@@ -1,21 +1,50 @@
 //define the troop history object
-//troop history object:
+//troop history year object:
 {
-    "id": "1971-01-01",
-    "historyRecords": [
-        {
-            "recordId": 1, // january
-            "advancementReport": {},
-            "submittedBy": "Karl M. Winsch"
-        },
-        {
-            "recordId": 2, // february
-            "advancementReport": {},
-            "submittedBy": "Karl M. Winsch"
-        }
-    ]
+    "id": 1971, // list year for applicable reports
+    "advancementReport": {
+        "openingComment": "",
+        "rankList": [
+            {
+                "id": 0, // i.e. scout
+                "nameList": "name1,name2"
+            },
+            {
+                "id": 1, // i.e. tenderfoot
+                "nameList": "name1,name2"
+            }
+            // etc list total of 7 ranks
+            // include eagle palms?
+            // include merit badges?
+        ],
+        "closingComment:": "",
+        "submittedBy": "example name"
+    },
+    "campingReport": {
+        "openingComment": "we did camping this year",
+        "tripList": [
+            {
+                "monthId": 0, // january
+                "activityText": "we went hiking"
+            },
+            {
+                "monthId": 1, // february
+                "activityText": "we froze"
+            }
+            // etc list remaining camping trips
+        ],
+        "closingComment": "this year camping good",
+        "submittedBy": "example name"
+    },
+    "explorerPostReport": {
+        "reportText": "here is the explanation of the explorer post activities",
+        "submittedBy": "example name"
+    },
+    "miscReport": {
+        "title": "an unusual activity for this year",
+        "reportText": "this year we built the cabin"
+    }
 }
-
 /*
 todo: create an application which:
 
