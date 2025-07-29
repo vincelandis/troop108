@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HistoryMarkupWizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a201d95c92c31229c4302016ced00c761d0f3273")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4787f2fd1f6b3d17605ea6f39ac7bc8920f1f30e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HistoryMarkupWizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HistoryMarkupWizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
